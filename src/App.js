@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+import NavBar from './comp/NavBar';
+import BodyCont from './comp/BodyCont';
 
 function App() {
   return (
@@ -18,6 +20,9 @@ function App() {
           Learn React
         </a>
       </header> */}
+
+      <NavBar/>
+      <BodyCont/>
     </div>
   );
 }
