@@ -1,70 +1,75 @@
-# Getting Started with Create React App
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+   
+  </head>
+  <body>
+  <center><h1>Hey 👋, I'm 😎 Sahil Dholpuria.</h1></center>
+  
+  
 
-## Available Scripts
+<a href="https://github.com/Sahildholpuria" rel="nofollow">
+    <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/github.svg" style="max-width:100%;">
+  </a>
+<a href="" rel="nofollow">
+    <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linkedin.svg" style="max-width:100%;">
+  </a>
+<a href="https://www.facebook.com/sahildholpuria1998/" rel="nofollow">
+    <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/facebook.svg" style="max-width:100%;">
+  </a>
+<a href="https://www.instagram.com/sahildholpuria/" rel="nofollow">
+    <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/instagram.svg" style="max-width:100%;">
+  </a>
+<a href="https://twitter.com/sahildholpuria1" rel="nofollow">
+    <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/twitter.svg" style="max-width:100%;">
+  </a>
+<a href="mailto:dholpuria1999@gmail.com" rel="nofollow">
+    <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" style="max-width:100%;">
+  </a>
+<a href="https://www.youtube.com/channel/UCNg-dM3Ynge55bwOWT2daoQ" rel="youtube">
+    <img align="left" alt="Learn Linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/youtube.svg" style="max-width:100%;">
+  </a>
+<a href="https://www.youtube.com/channel/UC6ZwumwdK5WpPOUKaZu42BA" rel="youtube">
+    <img align="left" alt="Sahil Dholpuria" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/youtube.svg" style="max-width:100%;">
+  </a>
+<a href="https://dev.to/sahildholpuria" rel="youtube">
+    <img align="left" alt="Sahil Dholpuria" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/dev-dot-to.svg" style="max-width:100%;">
+  </a>
+<a href="https://medium.com/@sahildholpuria" rel="youtube">
+    <img align="left" alt="Sahil Dholpuria" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/medium.svg" style="max-width:100%;">
+  </a>
+ 
+  
+  
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<br>
+<br>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"><img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966" data-canonical-src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" style="max-width:100%;"></a>
+<ul>
+<li><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji> Currently working with Cloud Computing, Java, Android, Python, Web Development;</li>
+<li>👨🏻&zwj;💻 I’m looking to collaborate on kick ass products;</li>
+<li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about anything, I am happy to help;</li>
+<li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡️</g-emoji> Fun-Fact: Anything is possible;</li>
+<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="mailto:sahildholpuria@outlook.com.com">sahildholpuria@outlook.com</a>;</li>
+</ul>
 
-### `npm test`
+<!--[![Sahil Dholpuria's github stats](https://github-readme-
+stats.vercel.app/api?//username=Sahildholpuria&show_icons=true&theme=graywhite)](https://github.com/Sahildholpuria/SahilDholpuria)-->
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  </body>
+  
+<!--       <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+ -->
+</html>
