@@ -2,6 +2,7 @@
 import './App.css';
 import NavBar from './comp/NavBar';
 import BodyCont from './comp/BodyCont';
+import FooterBar from './comp/FooterBar';
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
 
       <NavBar/>
       <BodyCont/>
+      <FooterBar/>
     </div>
   );
 }
