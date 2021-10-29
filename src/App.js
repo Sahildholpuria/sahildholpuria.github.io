@@ -1,12 +1,12 @@
 // import logo from './logo.svg';
 import './App.css';
 import NavBar from './comp/NavBar';
-import BodyCont from './comp/BodyCont';
+import UnderContructionPage from './comp/UnderContructionPage';
 import FooterBar from './comp/FooterBar';
 
 function App() {
   return (
-    <div className="App">
+    <>
       {/* <header className="App-header"> */}
         {/* <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -23,9 +23,10 @@ function App() {
       </header> */}
 
       <NavBar/>
-      <BodyCont/>
+      
+      <UnderContructionPage/>
       <FooterBar/>
-    </div>
+    </>
   );
 }
 
