@@ -14,7 +14,12 @@ export default function FooterBar() {
           </a>
           <br />
           Developed Using ♥&nbsp;
-          <a class="link-dark text-decoration-none" href="https://reactjs.org/">
+          <a
+            class="link-dark text-decoration-none"
+            href="https://reactjs.org/"
+            target="_blank"
+            rel="noreferrer"
+          >
             React
           </a>
           <br />
