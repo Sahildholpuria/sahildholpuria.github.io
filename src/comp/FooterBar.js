@@ -8,6 +8,9 @@ export default function FooterBar() {
           © 2021 Copyright :&nbsp;
           <a class="link-dark text-decoration-none" href="https://sahildholpuria.github.io">
             _&gt;SahilDholpuria
+          </a><br/>Developed Using ♥&nbsp;
+          <a class="link-dark text-decoration-none" href="https://reactjs.org/">
+            React
           </a>
         </div>
       </footer>
