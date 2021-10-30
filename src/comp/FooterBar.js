@@ -62,6 +62,7 @@ export default function FooterBar() {
             &nbsp;&nbsp;
             <a
               href="https://www.linkedin.com/in/sahildholpuria/"
+              target="_blank"
               rel="noreferrer"
             >
               <img
