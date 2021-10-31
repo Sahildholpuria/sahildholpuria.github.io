@@ -1,8 +1,9 @@
 // import logo from './logo.svg';
 import './App.css';
 import NavBar from './comp/NavBar';
-import UnderContructionPage from './comp/UnderContructionPage';
+// import UnderContructionPage from './comp/UnderContructionPage';
 import FooterBar from './comp/FooterBar';
+import Content from './comp/Content';
 
 function App() {
   return (
@@ -22,12 +23,13 @@ function App() {
         </a>
       </header> */}
 
-      <NavBar/>
-      
-      <UnderContructionPage/>
+      <NavBar/> 
+      {/* <UnderContructionPage/> */}
+      <Content/>
       <FooterBar/>
     </>
   );
+  
 }
 
 export default App;
