@@ -13,8 +13,8 @@ export default function Content() {
     </button> */}
     
         <a class="nav-link text-center text-dark fw-bold" href="#home">Home</a>
-        <a class="nav-link text-center text-dark fw-bold" href="Skills">Projects</a>
-        <a class="nav-link text-center text-dark fw-bold" href="About">About</a>
+        <a class="nav-link text-center text-dark fw-bold" href="#skills">Projects</a>
+        <a class="nav-link text-center text-dark fw-bold" href="#about">About</a>
 
 
 
@@ -33,7 +33,7 @@ export default function Content() {
               not in your favor.
             </p>
           </blockquote>
-          <figcaption class="blockquote-footer text-center mt-3">
+          <figcaption class="blockquote-footer text-center mt-3 mb-3">
             <cite title="Source Title">Elon Musk</cite>
           </figcaption>
         </figure>
