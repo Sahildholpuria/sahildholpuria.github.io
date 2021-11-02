@@ -3,7 +3,7 @@ import React from "react";
 export default function FooterBar() {
   return (
     <>
-      <footer class="page-footer font-small bg-light fixed-bottom ">
+      <footer class="page-footer font-small bg-light ">
         <div class="footer-copyright text-center py-3">
           © 2021 Copyright :&nbsp;
           <a
