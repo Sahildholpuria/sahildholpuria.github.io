@@ -4,19 +4,48 @@ export default function Content() {
   return (
     <>
       <div class="container-fluid">
-
-
-      
-    {/* <a class="navbar-brand" href="#">Navbar</a> */}
-    {/* <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        {/* <a class="navbar-brand" href="#">Navbar</a> */}
+        {/* <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button> */}
-    
+
+        {/* <a class="nav-link text-center text-dark fw-bold" href="#about">About</a>
         <a class="nav-link text-center text-dark fw-bold" href="#home">Home</a>
-        <a class="nav-link text-center text-dark fw-bold" href="#skills">Projects</a>
-        <a class="nav-link text-center text-dark fw-bold" href="#about">About</a>
+        <a class="nav-link text-center text-dark fw-bold" href="#skills">Projects</a> */}
 
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span class="navbar-toggler-icon"></span>
+          </button>
 
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mx-auto">
+              <li class="nav-item">
+                <a class="nav-link" href="#home">
+                  Home
+                </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#project">
+                  Project
+                </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#about">
+                  About
+                </a>
+              </li>
+            </ul>
+          </div>
+        </nav>
 
         <img
           src="https://github.com/Sahildholpuria/images/blob/main/%23DevFestIndia_badge.png?raw=true"
