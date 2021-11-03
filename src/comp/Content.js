@@ -39,6 +39,11 @@ export default function Content() {
                 </a>
               </li>
               <li class="nav-item">
+                <a class="nav-link text-dark" href="#blog">
+                  Blog
+                </a>
+              </li>
+              <li class="nav-item">
                 <a class="nav-link text-dark" href="#about">
                   About
                 </a>
