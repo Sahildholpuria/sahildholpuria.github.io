@@ -4,15 +4,6 @@ export default function Content() {
   return (
     <>
       <div class="container-fluid">
-        {/* <a class="navbar-brand" href="#">Navbar</a> */}
-        {/* <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button> */}
-
-        {/* <a class="nav-link text-center text-dark fw-bold" href="#about">About</a>
-        <a class="nav-link text-center text-dark fw-bold" href="#home">Home</a>
-        <a class="nav-link text-center text-dark fw-bold" href="#skills">Projects</a> */}
-
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
           <button
             class="navbar-toggler"
@@ -71,6 +62,21 @@ export default function Content() {
             <cite title="Source Title">Elon Musk</cite>
           </figcaption>
         </figure>
+      </div>
+
+      <hr></hr>
+
+      <div class="container-fluid " id="project">
+        <h3 class="text-center ">Project</h3>
+        <p class="text-center ">Check My Github</p>
+        <a href="https://github.com/Sahildholpuria" target="_blank"  rel="noreferrer">
+          <img
+            src="https://github.com/Sahildholpuria/images/blob/main/githublogo.png?raw=true"
+            class="img-fluid mx-auto d-block"
+            width="400"
+            alt="GitHub"
+          />
+        </a>
       </div>
     </>
   );
