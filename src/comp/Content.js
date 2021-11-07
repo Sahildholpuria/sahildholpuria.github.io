@@ -87,9 +87,6 @@ export default function Content() {
         &nbsp;
       </div>
       &nbsp;
-
-
-
       {/* //Skills */}
       <div class="container-fluid " id="skills">
         &nbsp;
