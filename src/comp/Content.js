@@ -3,7 +3,7 @@ import React from "react";
 export default function Content() {
   return (
     <>
-      <div class="container-fluid">
+      <div class="container-fluid" id="home">
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
           <button
             class="navbar-toggler"
@@ -16,7 +16,7 @@ export default function Content() {
           >
             <span class="navbar-toggler-icon"></span>
           </button>
-
+          &nbsp;
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mx-auto">
               <li class="nav-item">
@@ -42,7 +42,7 @@ export default function Content() {
             </ul>
           </div>
         </nav>
-
+        &nbsp;
         <img
           src="https://github.com/Sahildholpuria/images/blob/main/%23DevFestIndia_badge.png?raw=true"
           class="mx-auto d-block rounded-circle border border-5 img-fluid mt-3"
@@ -50,6 +50,7 @@ export default function Content() {
           height="300"
           alt="ProfilePicture"
         />
+        &nbsp;
         {/* <p class="text-center mt-3">"#include&#60;Development&#62;"</p> */}
         <figure>
           <blockquote class="blockquote ">
@@ -58,18 +59,24 @@ export default function Content() {
               not in your favor.
             </p>
           </blockquote>
+          &nbsp;
           <figcaption class="blockquote-footer text-center mt-3 mb-3">
             <cite title="Source Title">Elon Musk</cite>
           </figcaption>
         </figure>
+        &nbsp;
       </div>
-
-      <hr></hr>
-
-      <div class="container-fluid " id="project">
+      &nbsp;
+      <div class="container-fluid" id="project">
+        &nbsp;
         <h3 class="text-center ">Project</h3>
+        &nbsp;
         <p class="text-center ">Check My Github</p>
-        <a href="https://github.com/Sahildholpuria" target="_blank"  rel="noreferrer">
+        <a
+          href="https://github.com/Sahildholpuria"
+          target="_blank"
+          rel="noreferrer"
+        >
           <img
             src="https://github.com/Sahildholpuria/images/blob/main/githublogo.png?raw=true"
             class="img-fluid mx-auto d-block"
@@ -77,7 +84,91 @@ export default function Content() {
             alt="GitHub"
           />
         </a>
+        &nbsp;
       </div>
+      &nbsp;
+
+
+
+      {/* //Skills */}
+      <div class="container-fluid " id="skills">
+        &nbsp;
+        <h3 class="text-center ">Skills</h3>
+        &nbsp;
+        <div class="progress w-50 mx-auto d-block">
+          <div
+            class="progress-bar w-75"
+            role="progressbar"
+            aria-valuenow="75"
+            aria-valuemin="0"
+            aria-valuemax="100"
+          >
+            AWS
+          </div>
+        </div>
+        &nbsp;
+        <div class="progress w-50 mx-auto d-block">
+          <div
+            class="progress-bar w-50"
+            role="progressbar"
+            aria-valuenow="50"
+            aria-valuemin="0"
+            aria-valuemax="100"
+          >
+            Microsoft Azure
+          </div>
+        </div>
+        &nbsp;
+        <div class="progress w-50 mx-auto d-block">
+          <div
+            class="progress-bar w-75"
+            role="progressbar"
+            aria-valuenow="75"
+            aria-valuemin="0"
+            aria-valuemax="100"
+          >
+            Linux
+          </div>
+        </div>
+        &nbsp;
+        <div class="progress w-50 mx-auto d-block">
+          <div
+            class="progress-bar w-50"
+            role="progressbar"
+            aria-valuenow="50"
+            aria-valuemin="0"
+            aria-valuemax="100"
+          >
+            Programming
+          </div>
+        </div>
+        &nbsp;
+        <div class="progress w-50 mx-auto d-block">
+          <div
+            class="progress-bar w-50"
+            role="progressbar"
+            aria-valuenow="50"
+            aria-valuemin="0"
+            aria-valuemax="100"
+          >
+            Web Development
+          </div>
+        </div>
+        &nbsp;
+        <div class="progress w-50 mx-auto d-block">
+          <div
+            class="progress-bar w-75"
+            role="progressbar"
+            aria-valuenow="75"
+            aria-valuemin="0"
+            aria-valuemax="100"
+          >
+            Git/GitHub
+          </div>
+        </div>
+        &nbsp;
+      </div>
+      &nbsp;
     </>
   );
 }
