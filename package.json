@@ -1,7 +1,7 @@
 {
   "homepage": "https://sahildholpuria.github.io/",
   "name": "sahildholpuria.github.io",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
@@ -38,5 +38,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "website",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sahildholpuria/sahildholpuria.github.io.git"
+  },
+  "author": "SahilDholpuria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sahildholpuria/sahildholpuria.github.io/issues"
   }
 }
