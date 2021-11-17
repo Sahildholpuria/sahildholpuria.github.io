@@ -13,6 +13,7 @@ export default function Content() {
             aria-controls="navbarSupportedContent"
             aria-expanded="false"
             aria-label="Toggle navigation"
+            
           >
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -22,6 +23,11 @@ export default function Content() {
               <li class="nav-item">
                 <a class="nav-link text-dark" href="#home">
                   Home
+                </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link text-dark" href="#skills">
+                  Skills
                 </a>
               </li>
               <li class="nav-item">
