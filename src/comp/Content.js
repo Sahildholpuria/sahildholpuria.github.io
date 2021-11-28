@@ -6,7 +6,6 @@ export default function Content() {
       <div class="container-fluid" id="home">
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
           <button
-          
             class="navbar-toggler"
             type="button"
             data-bs-toggle="collapse"
