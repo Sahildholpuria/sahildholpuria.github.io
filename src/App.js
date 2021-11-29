@@ -4,6 +4,7 @@ import NavBar from './comp/NavBar';
 // import UnderContructionPage from './comp/UnderContructionPage';
 import FooterBar from './comp/FooterBar';
 import Content from './comp/Content';
+import CardItems from './comp/CardItems';
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
       <NavBar/> 
       {/* <UnderContructionPage/> */}
       <Content/>
+      {/* <CardItems/> */}
       <FooterBar/>
     </>
   );
