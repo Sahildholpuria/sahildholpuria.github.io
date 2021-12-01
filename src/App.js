@@ -1,7 +1,6 @@
 // import logo from './logo.svg';
 import './App.css';
 import NavBar from './comp/NavBar';
-// import UnderContructionPage from './comp/UnderContructionPage';
 import FooterBar from './comp/FooterBar';
 import Content from './comp/Content';
 import CardItems from './comp/CardItems';
@@ -23,7 +22,6 @@ function App() {
           Learn React
         </a>
       </header> */}
-
       <NavBar/> 
       {/* <UnderContructionPage/> */}
       <Content/>
