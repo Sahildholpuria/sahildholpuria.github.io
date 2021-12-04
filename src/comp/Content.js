@@ -35,7 +35,7 @@ export default function Content() {
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link text-dark" href="#blog">
+                <a class="nav-link text-dark" target="_blank" rel="noreferrer" href="https://cloudblog.cf/">
                   Blog
                 </a>
               </li>
