@@ -119,8 +119,7 @@ export default function Content() {
               <div class="card-body">
                 <h5 class="card-title">FlashLight App</h5>
                 <p class="card-text">
-                  With supporting text below as a natural lead-in to additional
-                  content.
+                  A basic Android App For The Flash Light 
                 </p>
                 <a href="/#" class="btn btn-primary">
                   Github
