@@ -105,8 +105,7 @@ export default function Content() {
               <div class="card-body">
                 <h5 class="card-title">Streaming App</h5>
                 <p class="card-text">
-                  With supporting text below as a natural lead-in to additional
-                  content.
+                  Simple Video Streaming Android App.
                 </p>
                 <a href="/#" class="btn btn-primary">
                   Github
@@ -129,7 +128,7 @@ export default function Content() {
           </div>
         </div>
         &nbsp;
-        <div class="row ms-5 me-5">
+        {/* <div class="row ms-5 me-5">
           <div class="col-sm-6">
             <div class="card">
               <div class="card-body">
@@ -158,7 +157,7 @@ export default function Content() {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
       </div>
 
       &nbsp;
@@ -239,6 +238,17 @@ export default function Content() {
           </div>
         </div>
         &nbsp;
+        <div class="progress w-50 mx-auto d-block">
+          <div
+            class="progress-bar w-50"
+            role="progressbar"
+            aria-valuenow="50"
+            aria-valuemin="0"
+            aria-valuemax="100"
+          >
+            Salesforce Admin
+          </div>
+        </div>
       </div>
       &nbsp;
     </>
