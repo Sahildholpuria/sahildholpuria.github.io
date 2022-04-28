@@ -41,7 +41,6 @@
   },
   "description": "website",
   "main": "index.js",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Sahildholpuria/sahildholpuria.github.io.git"
