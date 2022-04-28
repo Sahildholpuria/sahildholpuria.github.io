@@ -5,7 +5,7 @@ export default function FooterBar() {
     <>
       <footer class="page-footer font-small bg-light ">
         <div class="footer-copyright text-center py-3">
-          © 2022 Copyright :&nbsp;
+          © 202 Copyright :&nbsp;
           <a
             class="link-dark text-decoration-none"
             href="https://sahildholpuria.github.io"
