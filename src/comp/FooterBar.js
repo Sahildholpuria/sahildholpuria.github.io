@@ -13,7 +13,7 @@ export default function FooterBar() {
             _&gt;SahilDholpuria
           </a>
           <br />
-          Developed Using ♥&nbsp;
+          Developed Using ❤&nbsp;
           <a
             class="link-dark text-decoration-none"
             href="https://reactjs.org/"
