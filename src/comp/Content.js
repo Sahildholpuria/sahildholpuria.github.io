@@ -50,7 +50,7 @@ export default function Content() {
         </nav>
         &nbsp;
         <img
-          src="https://github.com/Sahildholpuria/images/blob/main/%23DevFestIndia_badge.png?raw=true"
+          src="https://github.com/Sahildholpuria/images/blob/main/%2B91%2091662%2076171%2020220227_222840.jpg?raw=true"
           class="mx-auto d-block rounded-circle border border-5 img-fluid mt-3"
           width="300"
           height="300"

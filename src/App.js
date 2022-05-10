@@ -28,6 +28,7 @@ function App() {
       {/* <CardItems/> */}
       <FooterBar/>
     </>
+    
   );
   
 }
