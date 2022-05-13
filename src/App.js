@@ -27,7 +27,7 @@ function App() {
       <Content/>
       {/* <CardItems/> */}
       <FooterBar/>
-    </>
+          </>
     
   );
   
