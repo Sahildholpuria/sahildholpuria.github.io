@@ -30,3 +30,9 @@ body{
     font-family: 'Ubuntu Mono', monospace;
     font-size: large;
 }
+
+#policy{
+  text-decoration: none;
+  color: rgb(92, 87, 87);
+  font-size: small;
+}

@@ -1,8 +1,6 @@
 import React from "react";
 
 export default function FooterBar() {
-
-  
   return (
     <>
       <footer class="page-footer font-small bg-light ">
@@ -87,12 +85,35 @@ export default function FooterBar() {
             </a>
             &nbsp;
           </ul>
-          <p>Current Date and Time is <span id='date-time'></span>.</p>
+          <a
+            href="https://sahildholpuria.github.io/Terms-Conditions/PrivacyPolicy.html"
+            target="_blank"
+            rel="noreferrer"
+            id="policy"
+          >
+            PrivacyPolicy
+          </a>
+          &nbsp;
+          <a
+            href="https://sahildholpuria.github.io/Terms-Conditions/Return&RefundPolicy.html"
+            target="_blank"
+            rel="noreferrer"
+            id="policy"
+          >
+            Return & RefundPolicy
+          </a>
+          &nbsp;
+          <a
+            href="https://sahildholpuria.github.io/Terms-Conditions/Terms&Conditions.html"
+            target="_blank"
+            rel="noreferrer"
+            id="policy"
+          >
+            Terms & Conditions
+          </a>
         </div>
+        
       </footer>
-      
     </>
   );
-
-  
 }
